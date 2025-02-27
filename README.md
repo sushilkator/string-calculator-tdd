@@ -45,11 +45,3 @@ Run all tests with:
 ```sh
 npm test
 ```
-
-## Contributing
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## License
-
-This project is **MIT Licensed**.
